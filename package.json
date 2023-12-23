@@ -1,6 +1,6 @@
 {
-    "name": "gmp-exemple",
-    "version": "2.0.202",
+    "name": "gmp-build-library",
+    "version": "0.0.101",
     "description": "",
     "main": "index.js",
     "scripts": {
