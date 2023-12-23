@@ -1,7 +1,9 @@
 {
     "name": "gmp-build-library",
+    "author": "kurguzov74@gmail.com",
+    "description": "Образец для сборки библиотек",
+    "license": "ISC",
     "version": "0.0.101",
-    "description": "",
     "main": "index.js",
     "scripts": {
         "parcel-dev": "npm run _delete && parcel src/index.html",
@@ -20,8 +22,6 @@
         "parcel-build": "parcel build src/index.html"
     },
     "keywords": [],
-    "author": "",
-    "license": "ISC",
     "sideEffects": false,
     "devDependencies": {
         "@types/node": "^20.10.3",
